@@ -33,7 +33,8 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1606676654749	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.pontofrio.com.br/akam-sw.js for scope https://www.pontofrio.com.br/ encountered an error during installation.
 JavaScript error: https://www.pontofrio-imagens.com.br/Mobile/TagManager/loader.js?_dc=1606676658251, line 1: TypeError: a[(a.length - 1)] is undefined
-1606676672057	geckodriver	INFO	Listening on 127.0.0.1:64936
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:64936
 1606676675092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msmai\\AppData\\Local\\Temp\\rust_mozprofileFG2PB0"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
@@ -478,3 +479,101 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1606677235237	Marionette	WARN	TLS certificate errors will be ignored for this session
 1606677238427	Marionette	INFO	Stopped listening on port 53387
 JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-THHLN5V&l=dataLayer, line 1778: uncaught exception: [object Object]
+1606679265309	geckodriver	INFO	Listening on 127.0.0.1:57893
+1606679268356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\msmai\\AppData\\Local\\Temp\\rust_mozprofilenE3OCv"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606679270034	Marionette	INFO	Listening on port 57908
+1606679270403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.magazineluiza.com.br/console-playstation-5-ps5-sony/p/043079500/ga/otga/, line 1210: SyntaxError: missing } after property list
+JavaScript note: https://www.magazineluiza.com.br/console-playstation-5-ps5-sony/p/043079500/ga/otga/, line 1207: { opened at line 1207, column 14
+JavaScript error: https://www.magazineluiza.com.br/static/js/product.f35a95f52fb07321954d.js, line 51: TypeError: t.offset() is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-BR2N, line 2804: uncaught exception: [object Object]
+JavaScript error: https://www.magazineluiza.com.br/console-playstation-5-ps5-sony/p/043079500/ga/otga/ line 3008 > injectedScript, line 1: TypeError: text is null
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=9tqfpu, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=9tqfpu, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+1606679277765	Marionette	INFO	Stopped listening on port 57908
+1606679278711	geckodriver	INFO	Listening on 127.0.0.1:58076
+1606679281744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\msmai\\AppData\\Local\\Temp\\rust_mozprofileiTktwE"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606679283338	Marionette	INFO	Listening on port 58087
+1606679283801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606679287064	Marionette	INFO	Stopped listening on port 58087
+1606679287889	geckodriver	INFO	Listening on 127.0.0.1:58173
+1606679290933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\msmai\\AppData\\Local\\Temp\\rust_mozprofileIonC7k"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606679292695	Marionette	INFO	Listening on port 58183
+1606679292998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606679296263	Marionette	INFO	Stopped listening on port 58183
+1606679297333	geckodriver	INFO	Listening on 127.0.0.1:58307
+1606679300373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\msmai\\AppData\\Local\\Temp\\rust_mozprofileGdT1qt"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606679302183	Marionette	INFO	Listening on port 58318
+1606679302418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.awsli.com.br/production/static/loja/estrutura/v1/js/all.min.js?v=7130793, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.shopb.com.br/console-playstation-5-digital-edition-sony, line 6995: TypeError: document.getElementsByClassName(...)[0] is undefined
+1606679310055	Marionette	INFO	Stopped listening on port 58318
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\msmai\AppData\Local\Temp\rust_mozprofileGdT1qt\protections.sqlite
+1606679310885	geckodriver	INFO	Listening on 127.0.0.1:58448
+1606679313924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\msmai\\AppData\\Local\\Temp\\rust_mozprofiletodx0K"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606679315722	Marionette	INFO	Listening on port 58465
+1606679315989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606679319084	Marionette	INFO	Stopped listening on port 58465
+1606679320225	geckodriver	INFO	Listening on 127.0.0.1:58583
+1606679323251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\msmai\\AppData\\Local\\Temp\\rust_mozprofileLqSkMd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606679325026	Marionette	INFO	Listening on port 58600
+1606679325290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606679328786	Marionette	INFO	Stopped listening on port 58600
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-THHLN5V&l=dataLayer, line 1778: uncaught exception: [object Object]
+1606679389942	geckodriver	INFO	Listening on 127.0.0.1:58856
+1606679392969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\msmai\\AppData\\Local\\Temp\\rust_mozprofileM46BF3"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606679394605	Marionette	INFO	Listening on port 58869
+1606679395027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.magazineluiza.com.br/console-playstation-5-ps5-sony/p/043079500/ga/otga/, line 1210: SyntaxError: missing } after property list
+JavaScript note: https://www.magazineluiza.com.br/console-playstation-5-ps5-sony/p/043079500/ga/otga/, line 1207: { opened at line 1207, column 14
+JavaScript error: https://www.magazineluiza.com.br/static/js/product.f35a95f52fb07321954d.js, line 51: TypeError: t.offset() is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-BR2N, line 2804: uncaught exception: [object Object]
+JavaScript error: https://www.magazineluiza.com.br/console-playstation-5-ps5-sony/p/043079500/ga/otga/ line 3008 > injectedScript, line 1: TypeError: text is null
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=9tqfpu, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=9tqfpu, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+1606679400404	Marionette	INFO	Stopped listening on port 58869
+1606679401356	geckodriver	INFO	Listening on 127.0.0.1:59044
+1606679404376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\msmai\\AppData\\Local\\Temp\\rust_mozprofile8sVwhA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606679406432	Marionette	INFO	Listening on port 59054
+1606679406542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606679409547	Marionette	INFO	Stopped listening on port 59054
+1606679411154	geckodriver	INFO	Listening on 127.0.0.1:59144
+1606679414172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\msmai\\AppData\\Local\\Temp\\rust_mozprofileMjEkuq"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606679416004	Marionette	INFO	Listening on port 59155
+1606679416256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606679419179	Marionette	INFO	Stopped listening on port 59155
