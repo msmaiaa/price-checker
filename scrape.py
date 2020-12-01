@@ -19,18 +19,17 @@ def start(loja, url, naXpath, priceXpath, nameXpathUn, nameXpathAv):
         nicePrint(loja, nome, False)
         driver.quit()
     else:
-        time.sleep(60)
         nome = driver.find_element_by_xpath(nameXpathAv)
-        price = driver.find_element_by_xpath(priceXpath)
-        nicePrint(loja, nome, price, True)
+        price = driver.find_element_by_xpath(priceXpath).text
+        nicePrint(loja, nome, True, price)
         driver.quit()
     
 
-def nicePrint(loja, nome, available, price=False):
+def nicePrint(loja, nome, available, price=""):
     if not available:
         print(Fore.CYAN + f'[{loja}]' + Fore.WHITE + f'[{nome.text}]' + Fore.RED + ' SEM ESTOQUE')
     else:
-        print(Back.GREEN + Fore.CYAN + f'[{loja}]' + Fore.WHITE + f'[{nome.text}]' + Fore.BLACK + f' [{price}]')
+        print(Fore.CYAN + f'[{loja}]' + Fore.GREEN + f'[{nome.text}]' + Fore.MAGENTA + f' {price}')
 
 #if __name__ == '__main__':
     #print(Fore.RED + 'some red text')

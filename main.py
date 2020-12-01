@@ -8,4 +8,3 @@ if __name__=="__main__":
         while True:
             for loja in res:
                 utils.filter(loja["titulo"], loja["urls"])
-            time.sleep(60)
