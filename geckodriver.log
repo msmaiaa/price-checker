@@ -1751,3 +1751,21 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1606848561014	Marionette	INFO	Listening on port 59754
 1606848561045	Marionette	WARN	TLS certificate errors will be ignored for this session
 1606848564273	Marionette	INFO	Stopped listening on port 59754
+1606848565253	geckodriver	INFO	Listening on 127.0.0.1:59862
+1606848568282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\msmai\\AppData\\Local\\Temp\\rust_mozprofile4nRh3V"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606848569768	Marionette	INFO	Listening on port 59873
+1606848569823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.magazineluiza.com.br/console-playstation-5-ps5-sony/p/043079500/ga/otga/, line 1209: SyntaxError: missing } after property list
+JavaScript note: https://www.magazineluiza.com.br/console-playstation-5-ps5-sony/p/043079500/ga/otga/, line 1206: { opened at line 1206, column 14
+JavaScript error: https://www.magazineluiza.com.br/static/js/product.f35a95f52fb07321954d.js, line 51: TypeError: t.offset() is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-BR2N, line 2804: uncaught exception: [object Object]
+JavaScript error: https://www.magazineluiza.com.br/console-playstation-5-ps5-sony/p/043079500/ga/otga/ line 3008 > injectedScript, line 1: TypeError: text is null
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=9tqfpu, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=9tqfpu, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/client-purge.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/modules/update-persistence.js, line 1: unreachable code after return statement
