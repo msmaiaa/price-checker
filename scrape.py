@@ -17,13 +17,13 @@ def start(loja, url, naXpath, priceXpath, nameXpathUn, nameXpathAv):
     if len(notAvailable) >= 1:
         nome = driver.find_element_by_xpath(nameXpathUn)
         nicePrint(loja, nome, False)
-        driver.quit()
     else:
         nome = driver.find_element_by_xpath(nameXpathAv)
         price = driver.find_element_by_xpath(priceXpath).text
         nicePrint(loja, nome, True, price)
-        driver.quit()
-    
+        
+    driver.close()
+
 
 def nicePrint(loja, nome, available, price=""):
     if not available:
